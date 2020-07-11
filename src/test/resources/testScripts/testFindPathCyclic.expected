@@ -1,0 +1,15 @@
+created graph graph1
+
+added node A to graph1
+added node B to graph1
+added node C to graph1
+
+added edge 1.0 from A to B in graph1
+added edge 2.0 from B to C in graph1
+added edge 3.0 from C to A in graph1
+
+path from A to C:
+A to B via 1.0
+B to C via 2.0
+
+path from A to A:

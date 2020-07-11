@@ -1,0 +1,12 @@
+# Test loading graphs with the created tsv files
+
+
+
+loaded graph dummy2
+
+loaded graph dummy3
+
+
+# test empty data file
+
+loaded graph dummyE

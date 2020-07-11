@@ -1,0 +1,17 @@
+# testing findPath in dummy2 graph
+
+loaded graph dummy2
+
+path from Billings, Ira to Blade Summer:
+Billings, Ira to Blade Summer via BB
+
+path from Bennet, James to Black Manta:
+Bennet, James to Bennie via BB
+Bennie to Black Manta via A35
+
+path from Bennet, James to Blubber:
+Bennet, James to Bennie via BB
+Bennie to Blubber via A35
+
+path from 3G4 to Bennet, James:
+no path found

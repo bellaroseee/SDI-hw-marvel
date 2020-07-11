@@ -1,0 +1,9 @@
+LoadGraph dummy3 dummy3.tsv
+
+FindPath dummy3 Bill_Greyhate Bill_Greyhate
+
+FindPath dummy3 Bill_Greyhate Black_Bill_The_Feared
+
+FindPath dummy3 Bill_Greyhate Peteplank
+
+FindPath dummy3 Bill_Greyhate Pete_Bones

@@ -1,0 +1,13 @@
+# Test loading graphs with the created tsv files
+
+LoadGraph dummy1 dummy1.tsv
+
+LoadGraph dummy2 dummy2.tsv
+
+LoadGraph dummy3 dummy3.tsv
+
+LoadGraph dummy2 dummy3.tsv
+
+# test empty data file
+
+LoadGraph dummyE dummyEmpty.tsv

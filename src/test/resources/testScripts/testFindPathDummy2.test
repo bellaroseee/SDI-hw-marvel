@@ -1,0 +1,11 @@
+# testing findPath in dummy2 graph
+
+LoadGraph dummy2 dummy2.tsv
+
+FindPath dummy2 Billings,_Ira Blade_Summer
+
+FindPath dummy2 Bennet,_James Black_Manta
+
+FindPath dummy2 Bennet,_James Blubber
+
+FindPath dummy2 3G4 Bennet,_James
